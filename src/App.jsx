@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Routes>
       
-         <Route path="/Checkweather" >
-          <Route path="/Checkweather" element={<Dashboard />} />
+         <Route path="/" >
+          <Route path="/" element={<Dashboard />} />
          
 
           
